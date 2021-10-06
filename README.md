@@ -44,7 +44,7 @@
 </p>
 
 ## 💥 About
-- 🤠  Data Science & Machine Learning Enthusiast
+- 🤠  Analyst - Merchant Product at OYO Rooms
 - 🏄‍ Former Machine Learning Intern @ ATAI Labs, Hyderabad
 - 😄  Former Data Science & Business Analytics Intern @ The Sparks Foundation
 - 🔭  Former Summer Intern @ IIIT Allahabad
