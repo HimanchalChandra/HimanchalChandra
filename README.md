@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A software developer from India.
+  A Data Science Enthusiast from India.
 </p>
 
 
@@ -44,7 +44,7 @@
 </p>
 
 ## 💥 About
-- 🤠  Software Developer & Machine Learning Enthusiast
+- 🤠  Data Science & Machine Learning Enthusiast
 - 🏄‍ Former Machine Learning Intern @ ATAI Labs, Hyderabad
 - 😄  Former Data Science & Business Analytics Intern @ The Sparks Foundation
 - 🔭  Former Summer Intern @ IIIT Allahabad
