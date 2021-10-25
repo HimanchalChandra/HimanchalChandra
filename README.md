@@ -32,7 +32,7 @@
 </p>
 
 ## 💥 About
-- 🤠  Analyst - Merchant Product at OYO
+- 🤠  Analyst - Product @OYO
 - 🏄‍ Former Machine Learning Intern @ ATAI Labs, Hyderabad
 - 😄  Former Data Science & Business Analytics Intern @ The Sparks Foundation
 - 🔭  Former Summer Intern @ IIIT Allahabad
